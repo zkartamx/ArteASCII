@@ -1,0 +1,132 @@
+{
+  "lm_studio_genetic_complete": [
+    "                                        ",
+    "          \u2591\u2591\u2591\u2591\u2591\u2591\u2591                       ",
+    "          \u2591\u2591\u2591\u2591\u2591\u2591\u2591                       ",
+    "          \u2591\u2591\u2591\u2591\u2591\u2591\u2591                       ",
+    "       \u2588\u2588\u2588\u2591\u2591\u2591\u2591\u2591\u2591\u2591                       ",
+    "       \u2588\u2588\u2588\u2591\u2591\u2591\u2591\u2591\u2591\u2591                       ",
+    "       \u2588\u2588\u2588\u2591\u2591\u2591\u2591\u2591\u2591\u2591                       ",
+    "      \u25c9\u25c9\u25c9 \u2591\u2591\u2591\u2591\u2591\u2591\u2591  \u25bc\u25bc\u25bc\u25bc\u25bc                ",
+    "      \u25c9\u25c9\u25c9          \u25bc\u25bc\u25bc\u25bc\u25bc                ",
+    "      \u25c9\u25c9\u25c9\u25c6\u25c6\u25c6       \u25bc\u25bc\u25bc\u25bc\u25bc    \u25c9\u25c9\u25c9\u25c9\u25c9       ",
+    "         \u25c6\u25c6\u25c6       \u25bc\u25bc\u25bc\u25bc\u25bc    \u25c9\u25c9\u25c9\u25c9\u25c9       ",
+    "         \u25c6\u25c6\u25c6   \u25bc\u25bc\u25bc \u25bc\u25bc\u25bc\u25bc\u25bc    \u25c9\u25c9\u25c9\u25c9\u25c9       ",
+    "               \u25bc\u25bc\u25bc          \u25c9\u25c9\u25c9\u25c9\u25c9       ",
+    "               \u25bc\u25bc\u25bc          \u25c9\u25c9\u25c9\u25c9\u25c9       ",
+    "                                        ",
+    "                                        ",
+    "                                        ",
+    "                                        ",
+    "                                        ",
+    "                                        "
+  ],
+  "genetic_population": [
+    {
+      "id": 0,
+      "shape": "triangle",
+      "x": 30,
+      "y": 11,
+      "size": 2,
+      "symbol": "\u25c9",
+      "fitness": 10,
+      "generation": 2,
+      "lm_studio_genetic_decision": true,
+      "genetic_signature": "gene_0_6569"
+    },
+    {
+      "id": 1,
+      "shape": "circle",
+      "x": 21,
+      "y": 9,
+      "size": 2,
+      "symbol": "\u25bc",
+      "fitness": 9,
+      "generation": 5,
+      "lm_studio_genetic_decision": true,
+      "genetic_signature": "gene_1_4491"
+    },
+    {
+      "id": 2,
+      "shape": "triangle",
+      "x": 7,
+      "y": 8,
+      "size": 1,
+      "symbol": "\u25c9",
+      "fitness": 9,
+      "generation": 2,
+      "lm_studio_genetic_decision": true,
+      "genetic_signature": "gene_2_9977"
+    },
+    {
+      "id": 3,
+      "shape": "circle",
+      "x": 22,
+      "y": 9,
+      "size": 1,
+      "symbol": "\u2591",
+      "fitness": 10,
+      "generation": 3,
+      "lm_studio_genetic_decision": true,
+      "genetic_signature": "gene_3_7264"
+    },
+    {
+      "id": 4,
+      "shape": "triangle",
+      "x": 16,
+      "y": 12,
+      "size": 1,
+      "symbol": "\u25bc",
+      "fitness": 10,
+      "generation": 2,
+      "lm_studio_genetic_decision": true,
+      "genetic_signature": "gene_4_6577"
+    },
+    {
+      "id": 5,
+      "shape": "triangle",
+      "x": 8,
+      "y": 5,
+      "size": 1,
+      "symbol": "\u2588",
+      "fitness": 8,
+      "generation": 3,
+      "lm_studio_genetic_decision": true,
+      "genetic_signature": "gene_5_8008"
+    },
+    {
+      "id": 6,
+      "shape": "circle",
+      "x": 13,
+      "y": 4,
+      "size": 3,
+      "symbol": "\u2591",
+      "fitness": 9,
+      "generation": 3,
+      "lm_studio_genetic_decision": true,
+      "genetic_signature": "gene_6_1339"
+    },
+    {
+      "id": 7,
+      "shape": "square",
+      "x": 10,
+      "y": 10,
+      "size": 1,
+      "symbol": "\u25c6",
+      "fitness": 8,
+      "generation": 5,
+      "lm_studio_genetic_decision": true,
+      "genetic_signature": "gene_7_1359"
+    }
+  ],
+  "canvas_info": {
+    "width": 40,
+    "height": 20,
+    "total_individuals": 8
+  },
+  "folder": "/Users/carteaga/Projects/Agente_Dibuja/creaciones_lm_studio/genetico",
+  "evolution_type": "genetic_lm_studio_complete",
+  "timestamp": "20250723_232903",
+  "visual_art_complete": true,
+  "ascii_art_included": true
+}

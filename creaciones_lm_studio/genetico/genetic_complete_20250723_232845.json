@@ -1,0 +1,132 @@
+{
+  "lm_studio_genetic_complete": [
+    "                                        ",
+    "                                        ",
+    "                 \u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf   \u2591\u2591\u2591          ",
+    "                 \u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf   \u2591\u2591\u2591\u2588\u2588\u2588       ",
+    "                 \u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf   \u2591\u2591\u2591\u2588\u2588\u2588       ",
+    "                 \u2588\u2588\u2588\u25cf\u25cf\u25cf\u25cf      \u2588\u2588\u2588       ",
+    "                 \u2588\u2588\u2588\u25cf\u25cf\u25cf\u25cf                ",
+    "                 \u2588\u2588\u2588\u25cf\u25cf\u25cf\u25cf                ",
+    "                 \u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf                ",
+    "                     \u25cf\u25cf\u25cf      \u25bc\u25bc\u25bc\u25bc\u25bc\u25bc\u25bc   ",
+    "                     \u25cf\u25cf\u25cf      \u25bc\u25bc\u25bc\u25bc\u25bc\u25bc\u25bc   ",
+    "                     \u25cf\u25cf\u25cf      \u25bc\u25bc\u25bc\u25bc\u25bc\u25bc\u25bc   ",
+    "                              \u25bc\u25bc\u25bc\u25bc\u25bc\u25bc\u25bc\u25c6  ",
+    "                              \u25bc\u25bc\u25bc\u25bc\u25bc\u25bc\u25bc\u25c6  ",
+    "          \u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0             \u25bc\u25bc\u25bc\u25bc\u25bc\u25bc\u25bc\u25c6  ",
+    "          \u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0             \u25bc\u25bc\u25bc\u25bc\u25bc\u25bc\u25bc\u25c6  ",
+    "          \u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0                \u25c6\u25c6\u25c6\u25c6\u25c6  ",
+    "          \u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0                       ",
+    "          \u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0                       ",
+    "          \u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0                       "
+  ],
+  "genetic_population": [
+    {
+      "id": 0,
+      "shape": "circle",
+      "x": 22,
+      "y": 10,
+      "size": 1,
+      "symbol": "\u25cf",
+      "fitness": 10,
+      "generation": 4,
+      "lm_studio_genetic_decision": true,
+      "genetic_signature": "gene_0_4965"
+    },
+    {
+      "id": 1,
+      "shape": "square",
+      "x": 13,
+      "y": 17,
+      "size": 3,
+      "symbol": "\u25a0",
+      "fitness": 8,
+      "generation": 4,
+      "lm_studio_genetic_decision": true,
+      "genetic_signature": "gene_1_1293"
+    },
+    {
+      "id": 2,
+      "shape": "triangle",
+      "x": 31,
+      "y": 4,
+      "size": 1,
+      "symbol": "\u2588",
+      "fitness": 10,
+      "generation": 5,
+      "lm_studio_genetic_decision": true,
+      "genetic_signature": "gene_2_8166"
+    },
+    {
+      "id": 3,
+      "shape": "triangle",
+      "x": 28,
+      "y": 3,
+      "size": 1,
+      "symbol": "\u2591",
+      "fitness": 10,
+      "generation": 1,
+      "lm_studio_genetic_decision": true,
+      "genetic_signature": "gene_3_7367"
+    },
+    {
+      "id": 4,
+      "shape": "square",
+      "x": 33,
+      "y": 12,
+      "size": 3,
+      "symbol": "\u25bc",
+      "fitness": 9,
+      "generation": 1,
+      "lm_studio_genetic_decision": true,
+      "genetic_signature": "gene_4_2090"
+    },
+    {
+      "id": 5,
+      "shape": "triangle",
+      "x": 18,
+      "y": 6,
+      "size": 1,
+      "symbol": "\u2588",
+      "fitness": 8,
+      "generation": 4,
+      "lm_studio_genetic_decision": true,
+      "genetic_signature": "gene_5_4112"
+    },
+    {
+      "id": 6,
+      "shape": "square",
+      "x": 20,
+      "y": 5,
+      "size": 3,
+      "symbol": "\u25cf",
+      "fitness": 10,
+      "generation": 1,
+      "lm_studio_genetic_decision": true,
+      "genetic_signature": "gene_6_3606"
+    },
+    {
+      "id": 7,
+      "shape": "triangle",
+      "x": 35,
+      "y": 14,
+      "size": 2,
+      "symbol": "\u25c6",
+      "fitness": 8,
+      "generation": 1,
+      "lm_studio_genetic_decision": true,
+      "genetic_signature": "gene_7_3443"
+    }
+  ],
+  "canvas_info": {
+    "width": 40,
+    "height": 20,
+    "total_individuals": 8
+  },
+  "folder": "/Users/carteaga/Projects/Agente_Dibuja/creaciones_lm_studio/genetico",
+  "evolution_type": "genetic_lm_studio_complete",
+  "timestamp": "20250723_232845",
+  "visual_art_complete": true,
+  "ascii_art_included": true
+}

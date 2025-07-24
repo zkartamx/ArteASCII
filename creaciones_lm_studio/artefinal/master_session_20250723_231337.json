@@ -1,0 +1,17 @@
+{
+  "lm_studio_master_session": {
+    "results": {
+      "genetico": "\u2705 Completado",
+      "cuantico": "\u2705 Completado",
+      "diversidad": "\u2705 Completado"
+    },
+    "folders": {
+      "genetico": "/Users/carteaga/Projects/Agente_Dibuja/creaciones_lm_studio/genetico",
+      "cuantico": "/Users/carteaga/Projects/Agente_Dibuja/creaciones_lm_studio/cuantico",
+      "diversidad": "/Users/carteaga/Projects/Agente_Dibuja/creaciones_lm_studio/diversidad",
+      "artefinal": "/Users/carteaga/Projects/Agente_Dibuja/creaciones_lm_studio/artefinal"
+    },
+    "timestamp": "20250723_231337",
+    "session_type": "lm_studio_complete"
+  }
+}

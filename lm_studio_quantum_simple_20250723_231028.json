@@ -1,0 +1,71 @@
+{
+  "lm_studio_quantum_simple": {
+    "quantum_states": [
+      {
+        "id": 0,
+        "quantum_state": "entanglement",
+        "fractal_type": "sierpinski",
+        "coherence": 0.5035714612178351,
+        "symbol": "\u2588",
+        "created_by": "lm_studio_quantum"
+      },
+      {
+        "id": 1,
+        "quantum_state": "decoherence",
+        "fractal_type": "sierpinski",
+        "coherence": 0.2683148752108965,
+        "symbol": "\u25cf",
+        "created_by": "lm_studio_quantum"
+      },
+      {
+        "id": 2,
+        "quantum_state": "entanglement",
+        "fractal_type": "mandelbrot",
+        "coherence": 0.8171415020768199,
+        "symbol": "\u25c6",
+        "created_by": "lm_studio_quantum"
+      },
+      {
+        "id": 3,
+        "quantum_state": "entanglement",
+        "fractal_type": "julia",
+        "coherence": 0.13871878088250622,
+        "symbol": "\u25c6",
+        "created_by": "lm_studio_quantum"
+      },
+      {
+        "id": 4,
+        "quantum_state": "decoherence",
+        "fractal_type": "mandelbrot",
+        "coherence": 0.5390343017619112,
+        "symbol": "\u25c6",
+        "created_by": "lm_studio_quantum"
+      },
+      {
+        "id": 5,
+        "quantum_state": "decoherence",
+        "fractal_type": "sierpinski",
+        "coherence": 0.5780266460671176,
+        "symbol": "\u2593",
+        "created_by": "lm_studio_quantum"
+      },
+      {
+        "id": 6,
+        "quantum_state": "entanglement",
+        "fractal_type": "mandelbrot",
+        "coherence": 0.47519169345494927,
+        "symbol": "\u25cf",
+        "created_by": "lm_studio_quantum"
+      },
+      {
+        "id": 7,
+        "quantum_state": "entanglement",
+        "fractal_type": "sierpinski",
+        "coherence": 0.7898799371341545,
+        "symbol": "\u2588",
+        "created_by": "lm_studio_quantum"
+      }
+    ],
+    "timestamp": "20250723_231028"
+  }
+}

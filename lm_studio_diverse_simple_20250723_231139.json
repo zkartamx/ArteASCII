@@ -1,0 +1,87 @@
+{
+  "lm_studio_diverse_simple": {
+    "shapes": [
+      {
+        "id": 0,
+        "shape": "hexagon",
+        "x": 26,
+        "y": 9,
+        "symbol": "\u2593",
+        "created_by": "lm_studio_diversity"
+      },
+      {
+        "id": 1,
+        "shape": "circle",
+        "x": 20,
+        "y": 17,
+        "symbol": "\u2588",
+        "created_by": "lm_studio_diversity"
+      },
+      {
+        "id": 2,
+        "shape": "triangle",
+        "x": 6,
+        "y": 17,
+        "symbol": "\u2593",
+        "created_by": "lm_studio_diversity"
+      },
+      {
+        "id": 3,
+        "shape": "star",
+        "x": 13,
+        "y": 15,
+        "symbol": "\u25b2",
+        "created_by": "lm_studio_diversity"
+      },
+      {
+        "id": 4,
+        "shape": "wave",
+        "x": 17,
+        "y": 16,
+        "symbol": "\u2593",
+        "created_by": "lm_studio_diversity"
+      },
+      {
+        "id": 5,
+        "shape": "hexagon",
+        "x": 14,
+        "y": 15,
+        "symbol": "\u25b2",
+        "created_by": "lm_studio_diversity"
+      },
+      {
+        "id": 6,
+        "shape": "star",
+        "x": 10,
+        "y": 11,
+        "symbol": "\u25b2",
+        "created_by": "lm_studio_diversity"
+      },
+      {
+        "id": 7,
+        "shape": "diamond",
+        "x": 7,
+        "y": 14,
+        "symbol": "\u2593",
+        "created_by": "lm_studio_diversity"
+      },
+      {
+        "id": 8,
+        "shape": "diamond",
+        "x": 14,
+        "y": 18,
+        "symbol": "\u25b2",
+        "created_by": "lm_studio_diversity"
+      },
+      {
+        "id": 9,
+        "shape": "square",
+        "x": 23,
+        "y": 12,
+        "symbol": "\u25cf",
+        "created_by": "lm_studio_diversity"
+      }
+    ],
+    "timestamp": "20250723_231139"
+  }
+}

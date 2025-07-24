@@ -1,0 +1,81 @@
+{
+  "lm_studio_quantum_folder": {
+    "quantum_states": [
+      {
+        "id": 0,
+        "quantum_state": "entanglement",
+        "fractal_type": "koch",
+        "coherence": 0.263148459905842,
+        "complexity": 4,
+        "lm_studio_quantum_decision": true,
+        "quantum_signature": "qs_0_7736"
+      },
+      {
+        "id": 1,
+        "quantum_state": "decoherence",
+        "fractal_type": "sierpinski",
+        "coherence": 0.48753735021635214,
+        "complexity": 2,
+        "lm_studio_quantum_decision": true,
+        "quantum_signature": "qs_1_1292"
+      },
+      {
+        "id": 2,
+        "quantum_state": "entanglement",
+        "fractal_type": "sierpinski",
+        "coherence": 0.5416236558918285,
+        "complexity": 3,
+        "lm_studio_quantum_decision": true,
+        "quantum_signature": "qs_2_8459"
+      },
+      {
+        "id": 3,
+        "quantum_state": "collapse",
+        "fractal_type": "koch",
+        "coherence": 0.25495372269042427,
+        "complexity": 3,
+        "lm_studio_quantum_decision": true,
+        "quantum_signature": "qs_3_3730"
+      },
+      {
+        "id": 4,
+        "quantum_state": "entanglement",
+        "fractal_type": "koch",
+        "coherence": 0.3129960636692677,
+        "complexity": 4,
+        "lm_studio_quantum_decision": true,
+        "quantum_signature": "qs_4_7885"
+      },
+      {
+        "id": 5,
+        "quantum_state": "decoherence",
+        "fractal_type": "mandelbrot",
+        "coherence": 0.6527791882320267,
+        "complexity": 1,
+        "lm_studio_quantum_decision": true,
+        "quantum_signature": "qs_5_2168"
+      },
+      {
+        "id": 6,
+        "quantum_state": "superposition",
+        "fractal_type": "koch",
+        "coherence": 0.6933131991058569,
+        "complexity": 1,
+        "lm_studio_quantum_decision": true,
+        "quantum_signature": "qs_6_5108"
+      },
+      {
+        "id": 7,
+        "quantum_state": "decoherence",
+        "fractal_type": "koch",
+        "coherence": 0.9030375988909963,
+        "complexity": 2,
+        "lm_studio_quantum_decision": true,
+        "quantum_signature": "qs_7_4274"
+      }
+    ],
+    "folder": "/Users/carteaga/Projects/Agente_Dibuja/creaciones_lm_studio/cuantico",
+    "evolution_type": "quantum_lm_studio",
+    "timestamp": "20250723_231326"
+  }
+}

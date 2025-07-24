@@ -1,0 +1,146 @@
+{
+  "lm_studio_diverse_folder": {
+    "shapes": [
+      {
+        "id": 0,
+        "shape": "spiral",
+        "x": 11,
+        "y": 6,
+        "symbol": "\u2588",
+        "complexity": 1,
+        "uniqueness_score": 8,
+        "lm_studio_diverse_decision": true,
+        "artistic_intent": "Shape #0 designed for maximum diversity"
+      },
+      {
+        "id": 1,
+        "shape": "spiral",
+        "x": 27,
+        "y": 12,
+        "symbol": "\u25c6",
+        "complexity": 5,
+        "uniqueness_score": 7,
+        "lm_studio_diverse_decision": true,
+        "artistic_intent": "Shape #1 designed for maximum diversity"
+      },
+      {
+        "id": 2,
+        "shape": "square",
+        "x": 6,
+        "y": 12,
+        "symbol": "\u2593",
+        "complexity": 4,
+        "uniqueness_score": 7,
+        "lm_studio_diverse_decision": true,
+        "artistic_intent": "Shape #2 designed for maximum diversity"
+      },
+      {
+        "id": 3,
+        "shape": "square",
+        "x": 12,
+        "y": 10,
+        "symbol": "\u25b2",
+        "complexity": 1,
+        "uniqueness_score": 7,
+        "lm_studio_diverse_decision": true,
+        "artistic_intent": "Shape #3 designed for maximum diversity"
+      },
+      {
+        "id": 4,
+        "shape": "hexagon",
+        "x": 9,
+        "y": 11,
+        "symbol": "\u2588",
+        "complexity": 4,
+        "uniqueness_score": 7,
+        "lm_studio_diverse_decision": true,
+        "artistic_intent": "Shape #4 designed for maximum diversity"
+      },
+      {
+        "id": 5,
+        "shape": "circle",
+        "x": 23,
+        "y": 10,
+        "symbol": "\u25cf",
+        "complexity": 1,
+        "uniqueness_score": 9,
+        "lm_studio_diverse_decision": true,
+        "artistic_intent": "Shape #5 designed for maximum diversity"
+      },
+      {
+        "id": 6,
+        "shape": "triangle",
+        "x": 12,
+        "y": 20,
+        "symbol": "\u25c6",
+        "complexity": 5,
+        "uniqueness_score": 8,
+        "lm_studio_diverse_decision": true,
+        "artistic_intent": "Shape #6 designed for maximum diversity"
+      },
+      {
+        "id": 7,
+        "shape": "triangle",
+        "x": 19,
+        "y": 6,
+        "symbol": "\u25cf",
+        "complexity": 1,
+        "uniqueness_score": 7,
+        "lm_studio_diverse_decision": true,
+        "artistic_intent": "Shape #7 designed for maximum diversity"
+      },
+      {
+        "id": 8,
+        "shape": "circle",
+        "x": 14,
+        "y": 5,
+        "symbol": "\u25a0",
+        "complexity": 2,
+        "uniqueness_score": 8,
+        "lm_studio_diverse_decision": true,
+        "artistic_intent": "Shape #8 designed for maximum diversity"
+      },
+      {
+        "id": 9,
+        "shape": "spiral",
+        "x": 21,
+        "y": 6,
+        "symbol": "\u2588",
+        "complexity": 5,
+        "uniqueness_score": 10,
+        "lm_studio_diverse_decision": true,
+        "artistic_intent": "Shape #9 designed for maximum diversity"
+      },
+      {
+        "id": 10,
+        "shape": "circle",
+        "x": 26,
+        "y": 10,
+        "symbol": "\u2588",
+        "complexity": 4,
+        "uniqueness_score": 8,
+        "lm_studio_diverse_decision": true,
+        "artistic_intent": "Shape #10 designed for maximum diversity"
+      },
+      {
+        "id": 11,
+        "shape": "square",
+        "x": 20,
+        "y": 20,
+        "symbol": "\u2593",
+        "complexity": 1,
+        "uniqueness_score": 10,
+        "lm_studio_diverse_decision": true,
+        "artistic_intent": "Shape #11 designed for maximum diversity"
+      }
+    ],
+    "folder": "/Users/carteaga/Projects/Agente_Dibuja/creaciones_lm_studio/diversidad",
+    "evolution_type": "diverse_lm_studio",
+    "diversity_metrics": {
+      "total_shapes": 12,
+      "unique_types": 5,
+      "average_complexity": 2.8333333333333335
+    },
+    "timestamp": "20250723_231330"
+  }
+}

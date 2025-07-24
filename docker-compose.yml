@@ -1,0 +1,39 @@
+version: '3.8'
+
+services:
+  agente-dibuja:
+    build: .
+    container_name: agente-dibuja-app
+    environment:
+      - LM_STUDIO_BASE_URL=http://host.docker.internal:1234/v1
+      - LM_STUDIO_API_KEY=not-needed-for-local
+      - CANVAS_WIDTH=40
+      - CANVAS_HEIGHT=20
+      - AGENT_1_NAME=Agente_Docker_Azul
+      - AGENT_2_NAME=Agente_Docker_Rojo
+      - MAX_TURNS=30
+      - DELAY_ENTRE_TURNOS=0.5
+    volumes:
+      - ./outputs:/app/outputs
+      - ./.env:/app/.env:ro
+    networks:
+      - agente-network
+    depends_on:
+      - lm-studio-bridge
+    restart: unless-stopped
+
+  # Servicio auxiliar para manejar conexión con LM Studio
+  lm-studio-bridge:
+    image: alpine:latest
+    container_name: lm-studio-bridge
+    command: tail -f /dev/null
+    networks:
+      - agente-network
+
+networks:
+  agente-network:
+    driver: bridge
+
+volumes:
+  agente-outputs:
+    driver: local

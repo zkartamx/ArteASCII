@@ -1,0 +1,81 @@
+{
+  "lm_studio_genetic_folder": {
+    "population": [
+      {
+        "id": 0,
+        "shape": "spiral",
+        "genes": {
+          "complexity": 7,
+          "symmetry": 7,
+          "creativity": 6
+        },
+        "fitness": 6,
+        "generation": 1,
+        "lm_studio_decision": true
+      },
+      {
+        "id": 1,
+        "shape": "triangle",
+        "genes": {
+          "complexity": 9,
+          "symmetry": 4,
+          "creativity": 9
+        },
+        "fitness": 7,
+        "generation": 2,
+        "lm_studio_decision": true
+      },
+      {
+        "id": 2,
+        "shape": "square",
+        "genes": {
+          "complexity": 8,
+          "symmetry": 6,
+          "creativity": 6
+        },
+        "fitness": 8,
+        "generation": 3,
+        "lm_studio_decision": true
+      },
+      {
+        "id": 3,
+        "shape": "circle",
+        "genes": {
+          "complexity": 8,
+          "symmetry": 7,
+          "creativity": 6
+        },
+        "fitness": 8,
+        "generation": 3,
+        "lm_studio_decision": true
+      },
+      {
+        "id": 4,
+        "shape": "circle",
+        "genes": {
+          "complexity": 3,
+          "symmetry": 7,
+          "creativity": 9
+        },
+        "fitness": 5,
+        "generation": 2,
+        "lm_studio_decision": true
+      },
+      {
+        "id": 5,
+        "shape": "square",
+        "genes": {
+          "complexity": 9,
+          "symmetry": 8,
+          "creativity": 7
+        },
+        "fitness": 5,
+        "generation": 2,
+        "lm_studio_decision": true
+      }
+    ],
+    "folder": "/Users/carteaga/Projects/Agente_Dibuja/creaciones_lm_studio/genetico",
+    "evolution_type": "genetic_lm_studio",
+    "timestamp": "20250723_231321"
+  }
+}

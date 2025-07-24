@@ -1,0 +1,310 @@
+{
+  "evolutionary_artwork": [
+    "                 ■■■▀                   ",
+    "                ■   ■                   ",
+    "        █ █    ▀■  ▀■■ ▓ ▓     ◆◆◆      ",
+    "       █     ■ ▀■■■  ■▀       ◆   ◆     ",
+    "      █      ■ ▀  ▀ ■■▀▀      ◆   ◆◆    ",
+    "     █   ███  ■▀  ▀▀■  ▀▓▓▓◆  ◆◆◆  ◆    ",
+    "     █  █   █  ■■■■■▓ ▀▀   ◆░ ░   ◆◆    ",
+    "     █  █   ██  ▀   ▓ ▀▓   ░◆     ◆     ",
+    "     █  ███  █   ▀▀▀▀▀ ▓▓▓░ ▓◆◆◆◆▒▒▒▒▒▒▒",
+    "     █ █▐▐  █▒ ▒    ▓    ░ ▓▓░░░ ▒      ",
+    "    █ ▐   ▐ ▒        ▓   ░ ▓░   ░▒      ",
+    "   █  ▐███▐▐          ▓▓▓░▓ ░   ░▒      ",
+    "  █▐ ▄███ ▒▐  ▒▒▒        ░  ░░░  ▒      ",
+    "  █▐ █   █▐▐ ▒   ▒       ░      ░▒      ",
+    " ▄█ ▐█   ██  ▒   ▒▒ ▓ ▓   ░     ░▒ ▌    ",
+    "▄ █ ▄███▐▐█  ▒▒▒  ▒▓       •••░░▌▒▒▒▒▒▒▒",
+    "▄ █▄   ▄ ██      ▒▓       •   •▌        ",
+    "▄  █   ▄▄█ ▒     ▓   ▓▓▓  •   ••  ▌▌▌   ",
+    "▄  ▄█████   ▒▒▒▒▒▓  ▓  •▓ ••• ▌• ▌   ▌  ",
+    "▄      ▄▄  +++   ▓  ▓  •▓▓    •• ▌   ▌▌ ",
+    " ▄     ▄  +   +  ▓  ▓▓▓ •▓    •  ▌▌▌  ▌ ",
+    "  ▄▄▄▄▄   +   ++ ▓      ▓▓••••▌      ▌▌ ",
+    "       +  +++  +  ▓     ▓      ▌     ▌  ",
+    "       +      ++   ▓▓▓▓▓        ▌▌▌▌▌   ",
+    "        +     +                         "
+  ],
+  "generations": 15,
+  "final_population": [
+    {
+      "genes": {
+        "type": "square",
+        "size": 8,
+        "density": 0.6295782057317367,
+        "symmetry": "bilateral",
+        "complexity": 5,
+        "mutation_rate": 0.18192513471942479,
+        "fitness": 1.9074740484429065
+      },
+      "fitness": 1.9074740484429065,
+      "type": "square"
+    },
+    {
+      "genes": {
+        "type": "fractal",
+        "size": 7,
+        "density": 0.9763846014293689,
+        "symmetry": "radial",
+        "complexity": 5,
+        "mutation_rate": 0.18192513471942479,
+        "fitness": 1.8324444444444445
+      },
+      "fitness": 1.8324444444444445,
+      "type": "fractal"
+    },
+    {
+      "genes": {
+        "type": "square",
+        "size": 8,
+        "density": 0.6295782057317367,
+        "symmetry": "bilateral",
+        "complexity": 5,
+        "mutation_rate": 0.18192513471942479,
+        "fitness": 1.8324444444444445
+      },
+      "fitness": 1.8324444444444445,
+      "type": "square"
+    },
+    {
+      "genes": {
+        "type": "square",
+        "size": 8,
+        "density": 0.6611728643596597,
+        "symmetry": "bilateral",
+        "complexity": 5,
+        "mutation_rate": 0.18192513471942479,
+        "fitness": 1.8324444444444445
+      },
+      "fitness": 1.8324444444444445,
+      "type": "square"
+    },
+    {
+      "genes": {
+        "type": "spiral",
+        "size": 6,
+        "density": 0.6295782057317367,
+        "symmetry": "bilateral",
+        "complexity": 5,
+        "mutation_rate": 0.18192513471942479,
+        "fitness": 1.8324444444444445
+      },
+      "fitness": 1.8324444444444445,
+      "type": "spiral"
+    },
+    {
+      "genes": {
+        "type": "spiral",
+        "size": 6,
+        "density": 0.3213109566616314,
+        "symmetry": "bilateral",
+        "complexity": 4,
+        "mutation_rate": 0.18192513471942479,
+        "fitness": 1.8324444444444445
+      },
+      "fitness": 1.8324444444444445,
+      "type": "spiral"
+    },
+    {
+      "genes": {
+        "type": "spiral",
+        "size": 6,
+        "density": 0.6295782057317367,
+        "symmetry": "bilateral",
+        "complexity": 5,
+        "mutation_rate": 0.18192513471942479,
+        "fitness": 1.8324444444444445
+      },
+      "fitness": 1.8324444444444445,
+      "type": "spiral"
+    },
+    {
+      "genes": {
+        "type": "spiral",
+        "size": 7,
+        "density": 0.6295782057317367,
+        "symmetry": "bilateral",
+        "complexity": 5,
+        "mutation_rate": 0.18192513471942479,
+        "fitness": 1.8324444444444445
+      },
+      "fitness": 1.8324444444444445,
+      "type": "spiral"
+    },
+    {
+      "genes": {
+        "type": "fractal",
+        "size": 6,
+        "density": 0.6295782057317367,
+        "symmetry": "bilateral",
+        "complexity": 5,
+        "mutation_rate": 0.18192513471942479,
+        "fitness": 1.8324444444444445
+      },
+      "fitness": 1.8324444444444445,
+      "type": "fractal"
+    },
+    {
+      "genes": {
+        "type": "spiral",
+        "size": 5,
+        "density": 0.6295782057317367,
+        "symmetry": "bilateral",
+        "complexity": 5,
+        "mutation_rate": 0.18192513471942479,
+        "fitness": 1.8324444444444445
+      },
+      "fitness": 1.8324444444444445,
+      "type": "spiral"
+    },
+    {
+      "genes": {
+        "type": "spiral",
+        "size": 7,
+        "density": 0.6295782057317367,
+        "symmetry": "bilateral",
+        "complexity": 5,
+        "mutation_rate": 0.18192513471942479,
+        "fitness": 1.8324444444444445
+      },
+      "fitness": 1.8324444444444445,
+      "type": "spiral"
+    },
+    {
+      "genes": {
+        "type": "fractal",
+        "size": 7,
+        "density": 0.6295782057317367,
+        "symmetry": "bilateral",
+        "complexity": 5,
+        "mutation_rate": 0.18192513471942479,
+        "fitness": 1.8324444444444445
+      },
+      "fitness": 1.8324444444444445,
+      "type": "fractal"
+    },
+    {
+      "genes": {
+        "type": "spiral",
+        "size": 6,
+        "density": 0.6295782057317367,
+        "symmetry": "bilateral",
+        "complexity": 5,
+        "mutation_rate": 0.18192513471942479,
+        "fitness": 1.8324444444444445
+      },
+      "fitness": 1.8324444444444445,
+      "type": "spiral"
+    },
+    {
+      "genes": {
+        "type": "fractal",
+        "size": 5,
+        "density": 0.6295782057317367,
+        "symmetry": "bilateral",
+        "complexity": 5,
+        "mutation_rate": 0.18192513471942479,
+        "fitness": 1.8324444444444445
+      },
+      "fitness": 1.8324444444444445,
+      "type": "fractal"
+    },
+    {
+      "genes": {
+        "type": "fractal",
+        "size": 7,
+        "density": 0.9763846014293689,
+        "symmetry": "radial",
+        "complexity": 5,
+        "mutation_rate": 0.18192513471942479,
+        "fitness": 1.8324444444444445
+      },
+      "fitness": 1.8324444444444445,
+      "type": "fractal"
+    },
+    {
+      "genes": {
+        "type": "spiral",
+        "size": 7,
+        "density": 0.6295782057317367,
+        "symmetry": "bilateral",
+        "complexity": 4,
+        "mutation_rate": 0.18192513471942479,
+        "fitness": 1.8324444444444445
+      },
+      "fitness": 1.8324444444444445,
+      "type": "spiral"
+    },
+    {
+      "genes": {
+        "type": "spiral",
+        "size": 6,
+        "density": 0.3213109566616314,
+        "symmetry": "bilateral",
+        "complexity": 5,
+        "mutation_rate": 0.18192513471942479,
+        "fitness": 1.8324444444444445
+      },
+      "fitness": 1.8324444444444445,
+      "type": "spiral"
+    },
+    {
+      "genes": {
+        "type": "fractal",
+        "size": 7,
+        "density": 0.9763846014293689,
+        "symmetry": "radial",
+        "complexity": 5,
+        "mutation_rate": 0.18192513471942479,
+        "fitness": 1.8324444444444445
+      },
+      "fitness": 1.8324444444444445,
+      "type": "fractal"
+    },
+    {
+      "genes": {
+        "type": "fractal",
+        "size": 7,
+        "density": 0.8861511293270765,
+        "symmetry": "radial",
+        "complexity": 5,
+        "mutation_rate": 0.18192513471942479,
+        "fitness": 1.8324444444444445
+      },
+      "fitness": 1.8324444444444445,
+      "type": "fractal"
+    },
+    {
+      "genes": {
+        "type": "square",
+        "size": 8,
+        "density": 0.6295782057317367,
+        "symmetry": "bilateral",
+        "complexity": 5,
+        "mutation_rate": 0.18192513471942479,
+        "fitness": 1.8324444444444445
+      },
+      "fitness": 1.8324444444444445,
+      "type": "square"
+    }
+  ],
+  "fitness_history": [
+    0.0,
+    0.095,
+    0.095,
+    0.09233333333333334,
+    0.45811111111111114,
+    0.8150000000000001,
+    1.5389444444444444,
+    1.8324444444444445,
+    1.8378813938198555,
+    1.8342482577251809,
+    1.8324444444444445,
+    1.8343242603550298,
+    1.833384352399737,
+    1.8397333333333337,
+    1.836088888888889
+  ],
+  "timestamp": "20250723_225819"
+}
